@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Issue With Sensitive Information
+    url: https://google.com
+    about: Please report issues with sensitive information here instead.
+
